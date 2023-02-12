@@ -1,2 +1,2 @@
 # solutions
-  solutions of sheet problem solving for Assiut University Training
+  solutions of problem solving sheet for Assiut University Training
